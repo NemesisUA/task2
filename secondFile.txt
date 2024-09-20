@@ -1,5 +1,5 @@
-second1
-second2
+second1	conflict
+second2 conflict
 second3
 second4
 second5
