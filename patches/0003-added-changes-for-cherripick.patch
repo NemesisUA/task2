@@ -1,0 +1,27 @@
+From 898a317bd40e91f262d302509d1e149ac3db4af5 Mon Sep 17 00:00:00 2001
+From: NemesisUA <display.n0ne.01.gmail.com>
+Date: Fri, 20 Sep 2024 12:45:05 +0300
+Subject: [PATCH 3/3] added changes for cherripick
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 522d98a..529f6c2 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,8 +1,8 @@
+ line1 changes for format patch 1
+ line2 changes for format patch 2
+ line3
+-line4
+-line5
++line4  changes for cherrypick 1
++line5  changes for cherrypick 2
+ line6
+ line7
+ line8
+-- 
+2.35.2.windows.1
+

@@ -1,0 +1,24 @@
+From 49dc918693b65bd595493f756f753b7587dd3f09 Mon Sep 17 00:00:00 2001
+From: NemesisUA <display.n0ne.01.gmail.com>
+Date: Fri, 20 Sep 2024 12:43:43 +0300
+Subject: [PATCH 2/3] added changes for format patch
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 31fe82d..522d98a 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line1
+-line2
++line1 changes for format patch 1
++line2 changes for format patch 2
+ line3
+ line4
+ line5
+-- 
+2.35.2.windows.1
+
