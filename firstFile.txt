@@ -4,7 +4,14 @@ line3
 line4  changes for cherrypick 1
 line5  changes for cherrypick 2
 line6
+<<<<<<< HEAD
 line7  task 19 change
 line8  task 19 change
 line9
 line10
+=======
+line7	
+line8	
+line9	task 18 change
+line10  task 18 change
+>>>>>>> da7487b6dcec3683344487f706839aa4008cc8ce
